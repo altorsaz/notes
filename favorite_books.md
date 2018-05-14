@@ -1,5 +1,7 @@
 * 'Object Oriented Software construction' de Bertrand Meyer.
 * 'Clean Code' de Robert C. Martin.
+* 'Clean Architecture' de Robert C. Martin.
+* 'The Clean Architecture in PhP' de Kristopher Wilson.
 * 'The Cleaner Coder' de Robert C. Martin.
 * 'Refactoring. Improving the design of existing code' de Martin Fowler.
 * 'Dessign Pattenrs' de Erich Gamma.
